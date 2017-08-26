@@ -1,2 +1,2 @@
 # Java-Plugins-Minecraft
-Moje pluginy na serwer Minecraft.
+Moje autorskie pluginy na serwer Minecraft.
